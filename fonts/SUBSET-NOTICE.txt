@@ -1,0 +1,9 @@
+PanelMonoLatin.woff2 is a character-subset derivative of Geist Mono Regular
+from geist@1.2.0. The original font is retained as GeistMono-Regular.woff2.
+Copyright (C) 2023 Vercel, made in collaboration with basement.studio.
+Licensed under the SIL Open Font License 1.1; see OFL.txt.
+
+Generated using subset-font 2.9.0 / HarfBuzz. Retained Unicode ranges:
+U+0020-00FF, U+0300-036F, U+2000-206F, U+20A0-20CF.
+The subset does not supply Chinese glyphs; those use local system fonts.
+Regeneration: npm run subset:font (development/build tool only).
